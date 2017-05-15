@@ -1,0 +1,17 @@
+package: github.com/dtop/gin-alexa-skeleton
+import:
+- package: github.com/caarlos0/env
+  version: ~2.1.0
+- package: github.com/dtop/gin-alexa
+- package: github.com/gin-gonic/gin
+  version: ~1.1.4
+- package: github.com/go-alexa/alexa
+  subpackages:
+  - parser
+  - response
+- package: github.com/zalando/gin-glog
+  version: ~1.1.0
+- package: gopkg.in/mgo.v2
+  subpackages:
+  - bson
+- package: gopkg.in/yaml.v2
