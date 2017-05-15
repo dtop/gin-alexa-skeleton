@@ -9,11 +9,11 @@ dont need to implement oauth stuff over and over.
 
 for building the skeleton I am using the following libs
 
-[gin-gonic/gin](https://github.com/gin-gonic/gin) gin http framework
-[dtop/gin-alexa](https://github.com/dtop/gin-alexa) alexa enhancements for gin
-[go-alexa/alexa](https://github.com/go-alexa/alexa) actual alexa handling lib
-[caarlos0/env](https://github.com/caarlos0/env) env config lib
-[go-oauth2/gin-server](https://github.com/go-oauth2/gin-server) gin oauth server
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) gin http framework
+- [dtop/gin-alexa](https://github.com/dtop/gin-alexa) alexa enhancements for gin
+- [go-alexa/alexa](https://github.com/go-alexa/alexa) actual alexa handling lib
+- [caarlos0/env](https://github.com/caarlos0/env) env config lib
+- [go-oauth2/gin-server](https://github.com/go-oauth2/gin-server) gin oauth server
 
 
 # Usage
